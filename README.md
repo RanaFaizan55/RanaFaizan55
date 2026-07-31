@@ -34,9 +34,6 @@ const faizanTahir = {
 
 ## 🚀 Featured Projects
 
-<!-- Give me a repo name, one-line description, and live link (if any) and I'll drop in a pin card + tech table here -->
-
-> _No projects added yet — share a repo and I'll build the pin card + tech table for it._
 
 ---
 
