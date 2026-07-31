@@ -1,10 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7DD3FC&height=200&section=header&text=M.%20Faizan%20Tahir&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=BS%20Artificial%20Intelligence%20Student%20%40%20UMT&descAlignY=55&descSize=18&descColor=ffffff" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Learning+Python%2C+NumPy+%26+Pandas;Exploring+Data+Viz+with+Matplotlib+%26+Seaborn;Building+a+Foundation+in+Math+for+AI;Aspiring+AI+%26+Data+Science+Engineer" alt="Typing SVG" />
-</a>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD60A&height=200&section=header&text=M.%20Faizan%20Tahir&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=BS%20Artificial%20Intelligence%20Student%20%40%20UMT&descAlignY=55&descSize=18&descColor=ffffff" width="100%"/> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=FFD60A&center=true&vCenter=true&width=600&lines=Learning+Python%2C+NumPy+%26+Pandas;Exploring+Data+Viz+with+Matplotlib+%26+Seaborn;Strengthening+My+ML+Math+Foundations;Aspiring+AI+%26+Data+Science+Engineer" alt="Typing SVG" /> </a> <br/>
 
 <br/>
 
@@ -29,10 +23,10 @@ const faizanTahir = {
     "Matplotlib & Seaborn",
     "Math for AI",
   ],
-  launchedProjects: [],  // 🚧 send me a repo name + description + live link and I'll populate this
-  certifications: [],    // none provided yet
+  launchedProjects: [],  
+  certifications: [],    
   status: "📚 Building my AI & Data Science foundation",
-  openTo: [],            // tell me what you're open to and I'll fill this in
+  openTo: [],            
 };
 ```
 
@@ -50,7 +44,7 @@ const faizanTahir = {
 
 **Languages**
 
-![Skills](https://skillicons.dev/icons?i=py&theme=dark)
+![Skills](https://skillicons.dev/icons?i=py,mysql,rust,r,cpp&theme=dark)
 
 **Data Science & AI**
 
@@ -59,7 +53,7 @@ const faizanTahir = {
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white)
 
-**Also studying:** Math for AI (Linear Algebra, Calculus, Probability & Statistics)
+
 
 ---
 
