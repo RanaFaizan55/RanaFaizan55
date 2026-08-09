@@ -1,6 +1,5 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD60A&height=200&section=header&text=M.%20Faizan%20Tahir&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=BS%20Artificial%20Intelligence%20Student%20%40%20UMT&descAlignY=55&descSize=18&descColor=ffffff" width="100%"/> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=FFD60A&center=true&vCenter=true&width=600&lines=Learning+Python%2C+NumPy+%26+Pandas;Exploring+Data+Viz+with+Matplotlib+%26+Seaborn;Strengthening+My+ML+Math+Foundations;Aspiring+AI+%26+Data+Science+Engineer" alt="Typing SVG" /> </a> <br/>
-
-<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD60A&height=200&section=header&text=M.%20Faizan%20Tahir&fontSize=40&fontColor=FAFAF8&animation=twinkling&fontAlignY=35&desc=BS%20Artificial%20Intelligence%20Student%20%40%20UMT&descAlignY=55&descSize=18&descColor=FAFAF8" width="100%"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RanaFaizan55&style=for-the-badge&color=7DD3FC&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/RanaFaizan55?style=for-the-badge&color=7DD3FC&logo=github&label=FOLLOWERS&logoColor=white)
