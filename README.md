@@ -55,10 +55,7 @@ A machine learning web application that predicts loan approval based on applican
 ---
 
 ## 🛠️ Tech Stack
-
 ---
-
-## 🛠️ Tech Stack
 
 **Languages**
 
