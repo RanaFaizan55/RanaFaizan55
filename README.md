@@ -14,25 +14,47 @@
 const faizanTahir = {
   name: "M. Faizan Tahir",
   title: "BS Artificial Intelligence Student @ UMT, Lahore",
-  stack: ["Python", "NumPy", "Pandas", "Matplotlib", "Seaborn"],
-  currentlyLearning: [
-    "Python fundamentals",
-    "NumPy",
-    "Pandas",
-    "Matplotlib & Seaborn",
-    "Math for AI",
+
+  stack: ["Python", "NumPy", "Pandas", "Matplotlib", "Seaborn", "Scikit-learn"],
+
+  concepts: [
+    "Linear & Logistic Regression",
+    "Binary Classification",
+    "KNN",
+    "Naive Bayes",
+    "Data Preprocessing & Evaluation"
   ],
-  launchedProjects: [],  
-  certifications: [],    
-  status: "📚 Building my AI & Data Science foundation",
-  openTo: [],            
+
+  projects: ["🏦 Loan Approval Predictor"],
+
+  currentlyLearning: [
+    "Machine Learning",
+    "Math for AI",
+    "Deep Learning"
+  ],
+
+  status: "🤖 Building my AI & Machine Learning journey"
 };
 ```
 
 ---
 
+
 ## 🚀 Featured Projects
 
+### 🏦 Loan Approval Predictor
+
+A machine learning web application that predicts loan approval based on applicant information.
+
+**Tech Stack:** Python • Pandas • Scikit-learn • Streamlit
+
+🔗 **[View Project on GitHub](https://github.com/RanaFaizan55/Loan-Approval-Predictor)**  
+
+🚀 **[Live Demo](https://loan-approval-predictorgit-nhikrutshhkkx6fmxnvvsk.streamlit.app/)**
+
+---
+
+## 🛠️ Tech Stack
 
 ---
 
