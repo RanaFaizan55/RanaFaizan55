@@ -76,20 +76,8 @@ A machine learning web application that predicts loan approval based on applican
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RanaFaizan55&show_icons=true&theme=nord&hide_border=true&title_color=7DD3FC&icon_color=7DD3FC&text_color=ffffff&bg_color=0D1117" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanaFaizan55&layout=compact&theme=nord&hide_border=true&title_color=7DD3FC&text_color=ffffff&bg_color=0D1117" width="49%"/>
 
 <img src="https://streak-stats.demolab.com/?user=RanaFaizan55&theme=nord&hide_border=true&background=0D1117&ring=7DD3FC&fire=7DD3FC&currStreakLabel=7DD3FC" width="100%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RanaFaizan55&no-frame=true&no-bg=true&theme=nord&row=1&column=7" />
 
 </div>
 
