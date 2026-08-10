@@ -59,7 +59,7 @@ A machine learning web application that predicts loan approval based on applican
 
 **Languages**
 
-![Skills](https://skillicons.dev/icons?i=py,mysql,rust,r,cpp&theme=dark)
+![Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,jupyter,git,github,docker,mysql&theme=dark)
 
 **Data Science & AI**
 
