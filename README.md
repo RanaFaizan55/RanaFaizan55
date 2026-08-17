@@ -42,6 +42,18 @@ const faizanTahir = {
 
 ## 🚀 Featured Projects
 
+### 💰 Personal Finance Web App
+
+A full-stack personal finance web application designed to help users manage their cash, expenses, investments, budgets, events, and financial activity in one place.
+
+**Tech Stack:** Python • Flask • SQLite • HTML • CSS • JavaScript • Vercel
+
+🔗 **[View Project on GitHub](https://github.com/RanaFaizan55/Personal-Finance-Web-App)**  
+
+🚀 **[Live Demo](https://personal-finance-web-app-fzr2-60zi2kr5x-ranafaizan55s-projects.vercel.app/)**
+
+---
+
 ### 🏦 Loan Approval Predictor
 
 A machine learning web application that predicts loan approval based on applicant information.
