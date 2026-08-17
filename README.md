@@ -50,7 +50,7 @@ A full-stack personal finance web application designed to help users manage thei
 
 🔗 **[View Project on GitHub](https://github.com/RanaFaizan55/Personal-Finance-Web-App)**  
 
-🚀 **[Live Demo](https://personal-finance-web-app-fzr2-60zi2kr5x-ranafaizan55s-projects.vercel.app/)**
+🚀 **[Live Demo](https://personal-finance-web-app-seven.vercel.app/login)**
 
 ---
 
